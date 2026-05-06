@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="Bryan Gradi - Founder @ Gradios" width="100%" />
+ <img src="banner.png.png" alt="Bryan Gradi - Founder @ Gradios" width="100%" />
 </div>
 
 <h1 align="center">👋 Olá, eu sou o Bryan</h1>
